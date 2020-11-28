@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a super confused developer who is constantly switching lanes between frontend & fullstack, some personal projects and sleeping for an entire day because some piece is always missing which could make my code clean and better.
 
-🔭 I’m currently working on (Espressobar) [https://github.com/ilakshay14/espressobar] -  a dream cafe where I would love to sit in, have Cold Brew and code.
+🔭 I’m currently working on (Espressobar)[https://github.com/ilakshay14/espressobar] -  a dream cafe where I would love to sit in, have Cold Brew and code.
 🌱 I’m currently learning GraphQL, Optimizing React apps, (trying to ) clean and better code. 
 👯 I’m looking to collaborate on something where I can play in the area of awesome and smooth frontends.
 🤔 I’m looking for help with cleaning up my code and making it better.
