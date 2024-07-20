@@ -7,4 +7,4 @@ Building stuff with ReactJS, Typescript, and Apollo Graphql. I do cold brews and
 - 📫 How to reach me? Visit my [site](https://lakshay.tech/)?
 - ⚡ Fun fact - Any number of TODOs you build, it is never enough.
 
-Cheers! :tumbler_glass:
+Cheers! ☕
